@@ -10,18 +10,18 @@ This project demonstrates UI automation using Selenide and the Page Object Model
 ## Learning Objectives
 This project aims to teach the following concepts:
 
-Element Selection: How to identify the correct selectors for web elements in UI automation.
-Selenide Test Structure: Understanding how to structure UI tests effectively using Selenide.
-Selenide Configuration: Setting up Selenide to suit your testing needs.
-Page Object Model (POM): Implementing the Page Object Model design pattern for more maintainable and readable UI tests.
-UI Test Writing: How to leverage page objects to write clean and efficient UI tests.
+- Element Selection: How to identify the correct selectors for web elements in UI automation.
+- Selenide Test Structure: Understanding how to structure UI tests effectively using Selenide.
+- Selenide Configuration: Setting up Selenide to suit your testing needs.
+- Page Object Model (POM): Implementing the Page Object Model design pattern for more maintainable and readable UI tests.
+- UI Test Writing: How to leverage page objects to write clean and efficient UI tests.
 
 ## Prerequisites
 
-- Selenide
+- **Selenide**:
 Selenide is a framework for automated UI testing that simplifies browser interactions. It abstracts common Selenium functionality, making test development easier and more efficient.
 
-- Page Object Model (POM)
+- **Page Object Model (POM)**:
 The Page Object Model is a design pattern that promotes the separation of test code and the UI code. Each page of the web application is represented by a separate class, with methods to interact with the page's elements. This makes the tests more maintainable and reusable.
 
 How the Project is Structured
